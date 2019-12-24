@@ -8,7 +8,7 @@ To contribute:
 
 
 ## List of companies
-| Name | Location | Glassdoor Rating | Office Picture | Mid Level Engineer Salary | Bonus | Stock Options | Pantry | Annual Leaves | Size | Insurance for dependents, Covers pregnancy? | Notes |
+| Name | Location | Glassdoor Rating | Office Picture AAAAAAAAAAAAAAAAAAAAAAA | Mid Level Engineer Salary | Bonus | Stock Options | Pantry | Annual Leaves | Size | Insurance for dependents, Covers pregnancy? | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | [Agoda](https://careersatagoda.com/)  | Tanjong Pagar | 3.9 | <img src="pictures/agoda.jpeg" alt="Agoda Office" height="250" width="400" > | $7000 | Yes | Yes | 8/10 | 18 | 1001 to 5000 | No/Pay $109 for dependents, No |
 | [Carousell](https://careers.carousell.com/) | Tanjong Pagar | 3.3 | <img src="pictures/carousell.jpeg" alt="Carousell Office" height="250" width="400" > | $6000-$7000 | No | Yes | ? | 14 | 201 to 500 | No, No |
