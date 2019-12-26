@@ -25,8 +25,9 @@ This project uses a config.yaml and a python script to automatically regenerate 
 Data updated at 26 Dec 2019
 
 
-| Name | Location | Glassdoor rating | Office Picture XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | Mid-Level Engineer Salary | Bonus | Stock Options | Pantry | Annual Leaves | Company size | Company revenue | Insurance | Flexible hours | Notes |
-|------|----------|------------------|------------------------------------------------|---------------------------|-------|---------------|--------|---------------|--------------|-----------------|-----------|----------------|-------|
-| [Agoda](https://careersatagoda.com) | Tanjong Pagar | [3.9](None) | <img src="pictures/agoda.jpeg" alt="Agoda Office" height="250" width="400" > | [$7000](None) | [Yes](None) | [Yes](None) | 8/10 | 18 | [10001 to 50000](None) | [$100M-$500M](None) | <ul> <li> Has GREAT insurance </li> <li> Pregnancy & childbirth is covered </li> <li> Maternity leave is standard </li> <li> Insurance is extended to dependents </li> <li> Can also cover dependents for $109/month </li> </ul> | Yes |  |
+| Name | Location | Glassdoor rating | Office Picture XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | Mid-Level Engineer Salary | Bonus | Stock Options | Pantry | Annual Leaves | Company size | Company revenue | Insurance XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | Flexible hours | Notes |
+|------|----------|------------------|------------------------------------------------|---------------------------|-------|---------------|--------|---------------|--------------|-----------------|-------------------------------------------|----------------|-------|
+| [Agoda](https://careersatagoda.com) | Tanjong Pagar | [3.9](None) | <img src="pictures/agoda.jpeg" alt="Agoda Office" height="250" width="400" > | [$7000](None) | [Yes](None) | [Yes](None) | 8/10 | 18 | [10001 to 50000](None) | [$100M-$500M](None) | <ul> <li> Has GREAT insurance </li> <li> Pregnancy & childbirth is covered </li> <li> Maternity leave is standard </li> <li> Insurance is extended to dependents </li> <li> But dependents costs $109/month to be covered </li> </ul> | Yes |  |
+| [~~Carousell~~](https://careers.carousell.com/) | ~~Tanjong Pagar~~ | [~~3.3~~](None) | <img src="pictures/carousell.jpeg" alt="Carousell Office" height="250" width="400" > | [~~$6000-7000~~](None) | [~~No~~](None) | [~~Yes~~](None) | ~~basic~~ | ~~14~~ | [~~201 to 500~~](None) | [~~unknown~~](None) | <ul> <li> ~~Has standard insurance~~ </li> <li> ~~Maternity leave is standard~~ </li> </ul> | ~~Yes~~ |  |
 
 Coded by: [Nasrudin Salim](http://nasrudinsalim.com)

@@ -1,7 +1,6 @@
-from collections import OrderedDict
+from collections import OrderedDict, namedtuple
 
-METADATA = {'career_page', 'strike_out',
-            'glassdoor__link', 'software_engineer__link'}
+create_metadata = namedtuple('metadata', ('career_page', 'strike_out', 'glassdoor__link', 'software_engineer__link'))
 
 
 def make_table_headers(headers: list):
@@ -12,7 +11,7 @@ def make_table_headers(headers: list):
     return f'{header_titles}\n{table_structure}'
 
 
-def _get_data(key, nested_data):
+def _get_data(key: str, nested_data: dict):
     sub_key_i = key.rfind('__')
     if sub_key_i != -1:
         return _get_data(key[(sub_key_i + 2):], nested_data[key[:sub_key_i]])
@@ -20,10 +19,10 @@ def _get_data(key, nested_data):
 
 
 def _get_metadata(data: dict):
-    return {metadata: _get_data(metadata, data) for metadata in METADATA}
+    return create_metadata(**{metadata: _get_data(metadata, data) for metadata in create_metadata._fields})
 
 
-def translate_benefits(benefits: dict):
+def translate_benefits(benefits: dict) -> list:
     benefit = []
 
     if benefits.get('good_insurance'):
@@ -40,13 +39,13 @@ def translate_benefits(benefits: dict):
     if benefits.get('covers_dependents'):
         benefit.append("Insurance is extended to dependents")
         benefit[0] = "Has GREAT insurance"
-    if (benefits.get('extras') is not None) and (benefits.get('extras') != False):
+    if (benefits.get('extras') is not None) and (benefits.get('extras') is not False):
         benefit.append(benefits.get('extras'))
 
     return benefit
 
 
-def parse_row_data(key: str, data: dict, columns_mapping: dict):
+def parse_row_data(key: str, data: dict, columns_mapping: dict) -> (dict, create_metadata):
     data['key'] = key
     row = OrderedDict()
 
@@ -63,11 +62,11 @@ def parse_row_data(key: str, data: dict, columns_mapping: dict):
     return row, metadata
 
 
-def row_data_to_row_markdown(row_data: dict, metadata: dict):
-    is_strike_out = metadata['strike_out']
-    metadata = {'glassdoor': metadata['glassdoor__link'],
-                'software_engineer': metadata['software_engineer__link'],
-                'key': metadata['career_page']}
+def row_data_to_row_markdown(row_data: dict, metadata: create_metadata):
+    is_strike_out = metadata.strike_out
+    metadata = {'glassdoor': metadata.glassdoor__link,
+                'software_engineer': metadata.software_engineer__link,
+                'key': metadata.career_page}
 
     row_markdown = '|'
 
@@ -75,7 +74,10 @@ def row_data_to_row_markdown(row_data: dict, metadata: dict):
         value = "Yes" if value is True else "No" if value is False else value
 
         if is_strike_out & (column != 'office_picture'):
-            value = f"~~{value}~~"
+            if isinstance(value, list):
+                value = [f"~~{v}~~" if v is not '' else v for v in value]
+            else:
+                value = f"~~{value}~~" if value is not '' else value
 
         if column.split('__')[0] in metadata:
             value = f'[{value}]({metadata[column.split("__")[0]]})'
@@ -83,7 +85,7 @@ def row_data_to_row_markdown(row_data: dict, metadata: dict):
         elif column == 'office_picture':
             value = f'<img src="{value}" alt="{row_data["key"]} Office" height="250" width="400" >'
 
-        elif column == 'benefits':
+        elif (column == 'benefits') & isinstance(value, list):
             value = create_markdown_bullet_list(value)
 
         row_markdown += f' {value} |'
