@@ -71,8 +71,7 @@ def _get_data(key: str, nested_data: dict) -> Any:
         return _get_data(key[(sub_key_i + 2):], _get_data(key[:sub_key_i], nested_data))
     if key and nested_data:
         return nested_data.get(key, None)
-    else:
-        return None
+    return None
 
 
 def _get_metadata(data: dict, metadata_fields=create_metadata._fields):
@@ -92,21 +91,21 @@ def _translate_benefits(benefits: dict) -> list:
 
     if benefits.get('good_insurance'):
         benefit.append("Has good insurance")
+    elif benefits.get('pregnancy') or benefits.get('covers_dependents):
+        benefit[0] = "Has GREAT insurance"                                           
     else:
         benefit.append('Has standard insurance')
 
     if benefits.get('pregnancy'):
         benefit.append("Pregnancy & childbirth is covered")
-        benefit[0] = "Has GREAT insurance"
+                                                   
+    if benefits.get('covers_dependents'):
+        benefit.append("Insurance is extended to dependents")
 
     if benefits.get('maternity_leaves') > 4:
         benefit.append(f"Maternity leave is more than standard, {benefits.get('maternity_leaves')} months")
     else:
         benefit.append("Maternity leave is standard to gov policy")
-
-    if benefits.get('covers_dependents'):
-        benefit.append("Insurance is extended to dependents")
-        benefit[0] = "Has GREAT insurance"
 
     if (benefits.get('extras') is not None) and (benefits.get('extras') is not False):
         benefit.append(benefits.get('extras'))

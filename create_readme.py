@@ -5,9 +5,8 @@ __date__ = '2019.12.26'
 Generates the README for
 [nasdin/Good-Tech-Companies-Singapore](https://github.com/Nasdin/Good-Tech-Companies-Singapore)
 Parses the config.yaml to recreate the README each time.
-The README consists of a dynamically generated table that consists of a few dynamic values found off GlassDoor 
-or PayScale.
-If there is a link provided, it will use those links to scrape the data.
+The README consists of a dynamically generated table that consists of data we can get from GlassDoor or PayScale.
+Which is input into config.yaml, then this create_readme.py is run to generate a new README.md
 """
 
 import yaml
@@ -62,8 +61,8 @@ with open(CONFIG_PATH) as f:
 table_headers = make_table_headers(columns_mapping.values())
 
 company_rows = [row_data_to_row_markdown(*parse_row_data(
-    key=company, data=data[company], columns_mapping=columns_mapping)
-                                         ) for company in data]
+    key=company, data=company_data, columns_mapping=columns_mapping)
+                                         ) for company, company_data in data.items()]
 
 # Structure of readme is more readable when its created via a list
 readme_content = '\n'.join([intro,
