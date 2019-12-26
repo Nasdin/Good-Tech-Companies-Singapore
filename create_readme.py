@@ -1,5 +1,5 @@
 __author__ = ['[Nasrudin Salim](http://nasrudinsalim.com)']
-__date__ = '2019.12.24'
+__date__ = '2019.12.26'
 
 """
 Generates the README for
@@ -61,7 +61,7 @@ readme_content = '\n'.join([intro,
                             '\n',
                             table_headers,
                             *company_rows,
-                            '\nCoded by: [Nasrudin Salim](http://nasrudinsalim.com)'])
+                            f'\nCoded by: {"&".join(__author__)}'])
 
 with open(README_PATH, 'w') as f:
     f.write(readme_content)
