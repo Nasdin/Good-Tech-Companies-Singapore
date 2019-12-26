@@ -1,10 +1,10 @@
 import pytest
-from generate import make_table_headers, create_markdown_bullet_list
+from generate import make_table_headers, _create_markdown_bullet_list
 
 
 @pytest.mark.parametrize("given,expected", [
     (['AAAA', 'BBB', 'CCC', 'DDDD'],
-     "| AAAA | BBB | CCC | DDDD |" + '\n' + "|----|---|---|------------------------------|")
+     "| AAAA | BBB | CCC | DDDD |\n|------|-----|-----|------|")
 ])
 def test_make_table_headers(given, expected):
     actual = make_table_headers(given)
@@ -13,8 +13,8 @@ def test_make_table_headers(given, expected):
 
 @pytest.mark.parametrize("given,expected", [
     (['AAAA', 'BBB', 'CCC', ],
-     "< ul > < li > AAAA < / li > < li > BBB < / li > < li > CCC < / li > < / ul >")
+     "<ul> <li> AAAA </li> <li> BBB </li> <li> CCC </li> </ul>")
 ])
 def test_create_markdown_bullet_list(given, expected):
-    actual = create_markdown_bullet_list(given)
+    actual = _create_markdown_bullet_list(given)
     assert actual == expected

@@ -74,6 +74,34 @@ Carousell:
   notes: ''
   strike_out: yes
 
+Facebook:
+  career_page: https://www.facebook.com/careers
+  office_location: Marina One
+  office_picture: pictures/facebook.jpg
+  glassdoor:
+    link:
+    # Overwrites
+    rating: 4.3
+    company_size: 10k+
+    company_revenue: $10B+
+  software_engineer:
+    link:
+    # Overwrites
+    salary: $8000-$9000
+    bonus: Yes$
+    stock_options: Yes$$
+  pantry: Amazing
+  annual_leaves: 18
+  flexible_hours: Yes
+  benefits:
+    good_insurance: Yes
+    pregnancy: Yes
+    maternity_leaves: 4
+    covers_dependents: Yes
+    extras: dental, vision, TCM, you name it
+  notes: Signing bonus, free meal 3 times a day, paid vacations
+  strike_out: no
+
 
 
 

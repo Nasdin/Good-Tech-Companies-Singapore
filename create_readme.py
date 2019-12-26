@@ -39,7 +39,7 @@ for personal appointments without consuming leaves. Or to work at home on any mo
 2. __Mid-level__
     
 >Someone who is in their mid to late 20s. Past the junior phase and has 2-4 years experience.
-5 years and above to command a much higher salary as they would have "senior" or "lead" in their titles.
+But 5 years and above can command a much higher salary; they would have "senior" or "lead" in their titles.
 
 '''
 
