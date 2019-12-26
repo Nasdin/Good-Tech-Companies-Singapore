@@ -37,7 +37,7 @@ automatically [regenerate](create_readme.py) this [README](README.md) file.
 >Choose own work hours, flexible entry and exit times or the ability to take time whenever during a workday
 for personal appointments without consuming leaves. Or to work at home on any moment's notice
 2. __Mid-level__
-    
+
 >Someone who is in their mid to late 20s. Past the junior phase and has 2-4 years experience.
 But 5 years and above can command a much higher salary; they would have "senior" or "lead" in their titles.
 
@@ -47,8 +47,8 @@ But 5 years and above can command a much higher salary; they would have "senior"
 
 4. __Very good pantry__
 
-> Generally means a never ending flowing pantry, topped up DAILY with premium ice cream of any kind, drinks, bars, 
-magnum ice-cream, free flow alcohol. Milo, coconut water etc. Non-junk snacks, Good would be similar but slightly lower. 
+> Generally means a never ending flowing pantry, topped up DAILY with premium ice cream of any kind, drinks, bars,
+magnum ice-cream, free flow alcohol. Milo, coconut water etc. Non-junk snacks, Good would be similar but slightly lower.
 Use your imagination to figure out the other ranges.
 
 

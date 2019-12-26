@@ -45,9 +45,9 @@ def row_data_to_row_markdown(row_data: dict, metadata: create_metadata):
 
         if is_strike_out & (column != 'office_picture'):
             if isinstance(value, list):
-                value = [f"~~{v}~~" if v is not '' else v for v in value]
+                value = [f"~~{v}~~" if v != '' else v for v in value]
             else:
-                value = f"~~{value}~~" if value is not '' else value
+                value = f"~~{value}~~" if value != '' else value
 
         if column.split('__')[0] in metadata:
             value = f'[{value}]({metadata[column.split("__")[0]]})'
@@ -91,14 +91,14 @@ def _translate_benefits(benefits: dict) -> list:
 
     if benefits.get('good_insurance'):
         benefit.append("Has good insurance")
-    elif benefits.get('pregnancy') or benefits.get('covers_dependents):
-        benefit[0] = "Has GREAT insurance"                                           
+    elif benefits.get('pregnancy') or benefits.get('covers_dependents'):
+        benefit[0] = "Has GREAT insurance"
     else:
         benefit.append('Has standard insurance')
 
     if benefits.get('pregnancy'):
         benefit.append("Pregnancy & childbirth is covered")
-                                                   
+
     if benefits.get('covers_dependents'):
         benefit.append("Insurance is extended to dependents")
 
