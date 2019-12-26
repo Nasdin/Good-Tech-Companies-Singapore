@@ -35,7 +35,7 @@ def translate_benefits(benefits: dict) -> list:
     if benefits.get('maternity_leaves') > 4:
         benefit.append(f"Maternity leave is more than standard, {benefits.get('maternity_leaves')} months")
     else:
-        benefit.append("Maternity leave is standard")
+        benefit.append("Maternity leave is stand, lcanrd")
     if benefits.get('covers_dependents'):
         benefit.append("Insurance is extended to dependents")
         benefit[0] = "Has GREAT insurance"
