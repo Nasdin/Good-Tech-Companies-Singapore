@@ -69,7 +69,7 @@ company_rows = [row_data_to_row_markdown(*parse_row_data(
 
 # Structure of readme is more readable when its created via a list
 readme_content = '\n'.join([intro,
-                            "## List of companies",
+                            f"## List of companies(Total: {len(company_rows)})",
                             f"Data updated at {today}",
                             '\n',
                             table_headers,

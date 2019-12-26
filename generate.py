@@ -91,10 +91,10 @@ def _translate_benefits(benefits: dict) -> list:
 
     if benefits.get('good_insurance'):
         benefit.append("Has good insurance")
-    elif benefits.get('pregnancy') or benefits.get('covers_dependents'):
-        benefit[0] = "Has GREAT insurance"
     else:
         benefit.append('Has standard insurance')
+    if benefits.get('pregnancy') or benefits.get('covers_dependents'):
+        benefit[0] = "Has GREAT insurance"
 
     if benefits.get('pregnancy'):
         benefit.append("Pregnancy & childbirth is covered")

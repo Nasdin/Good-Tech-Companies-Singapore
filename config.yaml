@@ -216,6 +216,34 @@ Carousell:
   notes: ''
   strike_out: yes
 
+Canopy:
+  career_page: https://apply.workable.com/canopy-mesitis/
+  office_location: Chinatown
+  office_picture: https://canopy.cloud/img/logodark.png
+  glassdoor:
+    link: https://www.glassdoor.sg/Reviews/Mesitis-Reviews-E1687005.htm
+    # Overwrites
+    rating: 3.9
+    company_size: 1-50
+    company_revenue: unknown
+  software_engineer:
+    link: https://www.glassdoor.sg/Salary/Mesitis-Salaries-E1687005.htm
+    # Overwrites
+    salary: $5000
+    bonus: No
+    stock_options: Yes
+  pantry: Decent-Good
+  annual_leaves: 21
+  flexible_hours: Possible if remote
+  benefits:
+    good_insurance: No
+    pregnancy: No
+    maternity_leaves: 4
+    covers_dependents: No
+    extras:
+  notes: Startup, pays low for mid level. Good pantry. Remote job available. Long hours
+  strike_out: yes
+
 Criteo:
   career_page: https://www.criteo.com/careers/
   office_location: Raffles Place, (CapitaGreen)
@@ -229,9 +257,9 @@ Criteo:
   software_engineer:
     link: https://www.glassdoor.sg/Salary/Criteo-Salaries-E426672.htm
     # Overwrites
-    salary: $7000-$8000(Est)
+    salary: $7000-$8000(Est) /wo bonus
     bonus: Yes(Quarterly)
-    stock_options: Yes, actual shares as company is listed
+    stock_options: Yes, actual shares as company is listed(4X Salary)
   pantry: Very Good
   annual_leaves: 25
   flexible_hours: Yes
@@ -499,33 +527,33 @@ Go-Jek:
 #  notes: ''
 #  strike_out: No
 
-#HP:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+HP:
+  career_page: https://jobs.hp.com/en-us/?prefilters=none&CloudSearchLocation=Singapore
+  office_location: Alexendra, Depot road
+  office_picture: https://e27.co/wp-content/uploads/2017/05/Hewlett_Packard_Enterprise.jpg
+  glassdoor:
+    link: https://www.glassdoor.sg/Reviews/HP-Inc-Singapore-Reviews-EI_IE1093161.0,6_IL.7,16_IM1123.htm
+    # Overwrites
+    rating: 4.0
+    company_size: 10000+
+    company_revenue: $58.47B, $5.32Bn USD Net Income
+  software_engineer:
+    link: https://www.glassdoor.sg/Salary/Hewlett-Packard-Enterprise-HPE-Salaries-E1093046.htm
+    # Overwrites
+    salary: $4500-$6000, hierarchical, senior positions take much higher salaries.
+    bonus: Yes
+    stock_options: Discounted Price, or given as part of bonuses
+  pantry: Good
+  annual_leaves: 15
+  flexible_hours: Yes
+  benefits:
+    good_insurance: No
+    pregnancy: No
+    maternity_leaves: 6.5
+    covers_dependents: No
+    extras: Slightly better than average insurance. Can work from home. No dental
+  notes: Low Salary, subsidized food, subsidized gym. Low number of leaves.
+  strike_out: Yes
 
 #HSBC Innovation Labs:
 #  career_page:
@@ -555,33 +583,33 @@ Go-Jek:
 #  notes: ''
 #  strike_out: No
 
-#Klook:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Klook:
+  career_page: https://www.klook.com/en-SG/careers/
+  office_location: Clarke Quay, Hong Kong St
+  office_picture: https://s3-ap-southeast-1.amazonaws.com/wobb-app/resized/uploads/jobs-malaysia/company_images/3387/jobs-malaysia-klook-1564556878_thumb.jpg
+  glassdoor:
+    link: https://www.glassdoor.sg/Overview/Working-at-Klook-Travel-EI_IE1907040.11,23.htm
+    # Overwrites
+    rating: 4.5
+    company_size: 1001-5000
+    company_revenue: $100M-$500M SGD
+  software_engineer:
+    link: https://www.glassdoor.sg/Salary/Klook-Travel-Salaries-E1907040.htm
+    # Overwrites
+    salary: $6000-$6500. Salary is concentrated to senior developers($8/9k), Directors($8k-$18k) Heads($15k-$25k)
+    bonus: Yes, performance based
+    stock_options: Yes
+  pantry: Very Good
+  annual_leaves: 18
+  flexible_hours: Yes
+  benefits:
+    good_insurance: Yes
+    pregnancy: No
+    maternity_leaves: 4
+    covers_dependents: No
+    extras: Travel allowance, sports day wednesdays.
+  notes: Lower than average basic salary but has bonuses. Good insurance, but not high end. Nice pantry and office.
+  strike_out: No
 
 #Lazada:
 #  career_page:
@@ -840,33 +868,33 @@ Go-Jek:
 #  notes: ''
 #  strike_out: No
 
-#Remerge:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Remerge:
+  career_page: https://remerge.recruitee.com/
+  office_location: The Great Room @ Orchard
+  office_picture: https://remerge.io/images/about-us/office-sg.jpg
+  glassdoor:
+    link: https://www.glassdoor.sg/Reviews/Remerge-Reviews-E1200273.htm
+    # Overwrites
+    rating: 4.6
+    company_size: 51-200
+    company_revenue: Undisclosed but is profitable
+  software_engineer:
+    link: https://www.glassdoor.sg/Salary/Remerge-Salaries-E1200273.htm
+    # Overwrites
+    salary: $8000
+    bonus: Yes(1 month)
+    stock_options: Yes(6 figures - mid 6 figures at acquisition)
+  pantry: Decent, Co-Working Space @ TheGreatRoom
+  annual_leaves: Unlimited! (Typically 30+)
+  flexible_hours: Yes
+  benefits:
+    good_insurance: Yes
+    pregnancy: Yes
+    maternity_leaves: Yes
+    covers_dependents: Yes
+    extras: Has the highest rated expat-level insurance coverage that covers virtually everything, also to dependents. Take sick leaves, time-off to do personal things whenever, unlimited.
+  notes: Can work remotely and has unlimited leaves but still have to complete work so typically 30+
+  strike_out: No
 
 #Refinitiv:
 #  career_page:
