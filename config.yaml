@@ -12,7 +12,9 @@ COLUMNS:
   glassdoor__company_size: Company size
   glassdoor__company_revenue: Company revenue
   benefits: Insurance
+  flexible_hours: Flexible hours
   notes: Notes
+
 
 #% Companies
 
@@ -22,27 +24,27 @@ Agoda:
   office_picture: pictures/agoda.jpeg
   glassdoor:
     link:
-      # Overwrites
+    # Overwrites
     rating: 3.9
     company_size: 10001 to 50000
     company_revenue: $100M-$500M
   software_engineer:
     link:
-      # Overwrites
+    # Overwrites
     salary: $7000
     bonus: Yes
     stock_options: Yes
   pantry: 8/10
   annual_leaves: 18
+  flexible_hours: Yes
   benefits:
     good_insurance: Yes
     pregnancy: Yes
     maternity_leaves: 4
-    covers_dependents: If pay $109
-    extras:
-  notes:
-  strike_out:
-    false
+    covers_dependents: Yes
+    extras: Can also cover dependents for $109/month
+  notes: ''
+  strike_out: no
 
 #Carousell:
 #  - career_page: https://careersatagoda.com

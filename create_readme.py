@@ -12,7 +12,7 @@ If there is a link provided, it will use those links to scrape the data.
 
 import yaml
 import datetime
-from generate import make_table_headers
+from generate import make_table_headers, parse_row_data, row_data_to_row_markdown
 
 today = datetime.datetime.today().strftime('%d %b %Y')
 
@@ -30,6 +30,17 @@ This project uses a config.yaml and a python script to automatically regenerate 
 3. Run create_readme.py, which will generate new README.md
 4. Open a pull request!
 
+
+#### Definitions
+1. Flexible hours
+
+    Choose own work hours, flexible entry and exit times or the ability to take time whenever during a workday
+    for personal appointments without consuming leaves. Or to work at home on any moment's notice
+2. Mid-level
+    
+    Someone who is in their mid to late 20s. Past the junior phase and has 2-4 years experience.
+    5 years and above to command a much higher salary as they would have "senior" or "lead" in their titles.
+
 '''
 
 with open(CONFIG_PATH) as f:
@@ -38,15 +49,18 @@ with open(CONFIG_PATH) as f:
 
 table_headers = make_table_headers(columns_mapping.values())
 
-# Structure of readme is more readable if its created via a list
+company_rows = [row_data_to_row_markdown(*parse_row_data(
+    key=company, data=data[company], columns_mapping=columns_mapping)
+                                         ) for company in data]
+
+# Structure of readme is more readable when its created via a list
 readme_content = '\n'.join([intro,
                             "## List of companies",
                             f"Data updated at {today}",
                             '\n',
                             table_headers,
+                            *company_rows,
                             '\nCoded by: [Nasrudin Salim](http://nasrudinsalim.com)'])
-
-print(readme_content)
 
 with open(README_PATH, 'w') as f:
     f.write(readme_content)
