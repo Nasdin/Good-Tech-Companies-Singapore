@@ -75,6 +75,119 @@ Agoda:
   notes: ''
   strike_out: no
 
+#AirBnb:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Apple:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Amazon:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#AutoDesk:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+
 Carousell:
   career_page: https://careers.carousell.com/
   office_location: Tanjong Pagar
@@ -131,6 +244,62 @@ Criteo:
   notes: People-centric
   strike_out: No
 
+#DBS:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Dell:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
 DRW:
   career_page: https://drw.com/careers/
   office_location: Downtown/Marina Bay
@@ -157,34 +326,6 @@ DRW:
     covers_dependents: Yes
     extras: Daily Catered Breakfasts, includes retirement plan
   notes: ''
-  strike_out: No
-
-Go-Jek:
-  career_page: https://career.go-jek.com/job/
-  office_location: Downtown Core Area
-  office_picture: pictures/gojek.jpg
-  glassdoor:
-    link: https://www.glassdoor.sg/Reviews/Gojek-Reviews-E1282114.htm
-    # Overwrites
-    rating: 4.0
-    company_size: 1001 to 5000 employees
-    company_revenue: Unknown / Non-Applicable
-  software_engineer:
-    link: https://www.glassdoor.sg/Monthly-Pay/Gojek-Software-Engineer-Monthly-Pay-E1282114_D_KO6,23.htm
-    # Overwrites
-    salary: $7000
-    bonus: No
-    stock_options: Yes
-  pantry: Good
-  annual_leaves: 18-22
-  flexible_hours: Yes, or can just work from home
-  benefits:
-    good_insurance: Yes
-    pregnancy: No
-    maternity_leaves: 4
-    covers_dependents: No
-    extras: Negotiable benefits
-  notes: Get additional credits into GoPay wallet for personal use
   strike_out: No
 
 Facebook:
@@ -215,34 +356,880 @@ Facebook:
   notes: Signing bonus, free meal 3 times a day, paid vacations
   strike_out: no
 
+#FoodPanda:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Google:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
 
 
 
 
-### List of companies
-#| Name | Location | Glassdoor Rating | Office Picture AAAAAAAAAAAAAAAAAAAAAAA | Mid Level Engineer Salary | Bonus | Stock Options | Pantry | Annual Leaves | Size | Revenue | Insurance for dependents, Covers pregnancy? | Notes |
-#|---|---|---|---|---|---|---|---|---|---|---|---|---|
+Go-Jek:
+  career_page: https://career.go-jek.com/job/
+  office_location: Downtown Core Area
+  office_picture: pictures/gojek.jpg
+  glassdoor:
+    link: https://www.glassdoor.sg/Reviews/Gojek-Reviews-E1282114.htm
+    # Overwrites
+    rating: 4.0
+    company_size: 1001 to 5000 employees
+    company_revenue: Unknown / Non-Applicable
+  software_engineer:
+    link: https://www.glassdoor.sg/Monthly-Pay/Gojek-Software-Engineer-Monthly-Pay-E1282114_D_KO6,23.htm
+    # Overwrites
+    salary: $7000
+    bonus: Maybe?(Need confirm)
+    stock_options: Yes
+  pantry: Good
+  annual_leaves: 18-22
+  flexible_hours: Yes, or can just work from home
+  benefits:
+    good_insurance: Yes
+    pregnancy: No
+    maternity_leaves: 4
+    covers_dependents: No
+    extras: Negotiable benefits
+  notes: Get additional credits into GoPay wallet for personal use
+  strike_out: No
+
+#GovTech:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Grab:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#HP:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#HSBC Innovation Labs:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Klook:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Lazada:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#LinkedIn:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+
+
+
+
+#IBM:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#JP Morgan:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Jump Trading:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Microsoft:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#nuTonomy:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#OCBC:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+
+#PayPal:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Remerge:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Refinitiv:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#SEA Garena:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Shopee:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#ShopBack:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Stripe:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Standard Chartered:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+
+#Traveloka:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Twitter:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#Viki:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#VISA:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
 #
-#| [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | No intern positions listed |
-#| [Google](https://careers.google.com/jobs/results/142027906936120006-software-engineering-intern-summer-2020/?company=Google&company=YouTube&hl=en&jlo=en-US&location=Singapore&q=Software%20Engineering%20intern)  | Pasir Panjang | Summer | Deadline: 31st October 2019 | Within 12-18 months of completing a Bachelor's or Master's degree
-#| [Google (STEP)](https://careers.google.com/jobs/results/97828209514422982-student-training-in-engineering-program-step-intern-2020/?company=Google&company=YouTube&hl=en&jlo=en-US&location=Singapore&q=Software%20Engineering%20intern)  | Pasir Panjang | Summer | Deadline: 31st October 2019 |
-#| [GovTech](https://govtech.taleo.net/careersection/govtech_internship/jobsearch.ftl)| Depends on team| Summer| |
-#| [Grab](https://grab.careers/job-details/?id=962b081ccd05013e0a432d0006525ea0)  | Marina One | Unknown | Data Analytics & Data Science, ATAP |
-#| [Honestbee](https://careers.honestbee.com/departments/job/)  | Tiong Bahru | Summer | No intern positions listed |
-#| [HopeTechnik](https://www.hopetechnik.com/careers/) | Jurong | All-year around| Software Engineering Intern && Technical Analyst && Mechanical Engineering Intern |
-#|IBM | Changi Business Park | Unknown | |
-#| [JPMorgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=190064684)| | Summer|October 27, 2019|
-#| [Jump Trading](https://www.jumptrading.com/jobs.html)  | Downtown | Summer | |
-#| [Lazada](http://www.lazada.com/work-at-lazada) | Tanjong Pagar | Summer | |
-#| [Nutonomy](https://www.nutonomy.com/careers/) | Jurong | All-year-around | Autonomous Driving Intern. Note that you need to be on a MS/PhD track |
-#| [OpenGovProducts](https://opengovernmentproducts.recruitee.com/)| Funan| All-year-round| SE & UX interns; Only Singaporean or PR allowed;|
-#| [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year around | |
-#| [ShopBack](http://careers.shopback.com/singapore)  | One-North | Summer | No SE intern positions listed |
-#| [SEA(Shopee)](https://careers.shopee.sg/) | Kent-Ridge | All-year around | |
-#| [Stripe](https://stripe.com/jobs/listing/software-engineering-intern-apac/1806024?gh_src=73vnei) | Outram Park | Summer | |
-#| Traveloka| Unknown | Summer | |
-#| Twitter  | Raffles Place/Downtown | Summer | |
-#| [VISA](https://jobs.smartrecruiters.com/oneclick-ui/company/108611351/job/1520850202/publication/743999693253063)  | Paya Lebar | Summer | Might include an all-paid trip to the VISA HQ in San Francisco |
-#| [ViSenze](https://visenze.workable.com/jobs/708797/candidates/new)  | One-North | Unknown | |
-#| Yitu Tech | Pasir Panjang | Summer/Winter | |
-#| [Zendesk](https://www.zendesk.com/jobs/singapore/)  | Commonwealth | Summer | No intern positions listed |
+#ViSenze:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#WorkDay:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
+#ZenDesk:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+

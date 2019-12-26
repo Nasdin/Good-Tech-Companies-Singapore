@@ -48,7 +48,7 @@ But 5 years and above can command a much higher salary; they would have "senior"
 
 4. __Very good pantry__
 
-> Generally means a never ending flowing pantry, topped up daily with premium ice cream of any kind, drinks, bars, 
+> Generally means a never ending flowing pantry, topped up DAILY with premium ice cream of any kind, drinks, bars, 
 magnum ice-cream, free flow alcohol. Milo, coconut water etc. Non-junk snacks, Good would be similar but slightly lower. 
 Use your imagination to figure out the other ranges.
 
