@@ -20,6 +20,9 @@ CONFIG_PATH = 'config.yaml'
 
 intro = f'''
 # Good-tier Tech companies in Singapore
+## [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat\
+)](https://github.com/Nasdin/Good-Tech-Companies-Singapore/issues) \
+![](https://github.com/Nasdin/Good-Tech-Companies-Singapore/workflows/Test%20README%20parser/badge.svg)
 ### Updated: {today}
 This project uses a [config.yaml](config.yaml) and a python [script](generate.py) to \
 automatically [regenerate](create_readme.py) this [README](README.md) file.
