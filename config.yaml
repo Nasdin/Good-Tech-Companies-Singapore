@@ -18,6 +18,35 @@ COLUMNS:
 
 #% Companies
 
+# Template, copy paste and uncomment
+#<Company Name>:
+#  career_page:
+#  office_location:
+#  office_picture:
+#  glassdoor:
+#    link:
+#    # Overwrites
+#    rating:
+#    company_size:
+#    company_revenue:
+#  software_engineer:
+#    link:
+#    # Overwrites
+#    salary:
+#    bonus:
+#    stock_options:
+#  pantry:
+#  annual_leaves:
+#  flexible_hours:
+#  benefits:
+#    good_insurance:
+#    pregnancy:
+#    maternity_leaves:
+#    covers_dependents:
+#    extras:
+#  notes: ''
+#  strike_out: No
+
 Agoda:
   career_page: https://careersatagoda.com
   office_location: Tanjong Pagar
@@ -34,7 +63,7 @@ Agoda:
     salary: $7000
     bonus: Yes
     stock_options: Yes
-  pantry: 8/10
+  pantry: Very good
   annual_leaves: 18
   flexible_hours: Yes
   benefits:
@@ -74,6 +103,34 @@ Carousell:
   notes: ''
   strike_out: yes
 
+Criteo:
+  career_page: https://www.criteo.com/careers/
+  office_location: Raffles Place, (CapitaGreen)
+  office_picture: https://media.glassdoor.com/l/8d/d2/cd/8d/i-m-thrilled-to-announce-the-opening-of-our-new-singapore-office-located.jpg
+  glassdoor:
+    link: https://www.glassdoor.sg/Reviews/Criteo-Singapore-Reviews-EI_IE426672.0,6_IL.7,16_IM1123.htm
+    # Overwrites
+    rating: 3.9
+    company_size: 1001 to 5000 employees
+    company_revenue: $2 to $5 billion (SGD) per year
+  software_engineer:
+    link: https://www.glassdoor.sg/Salary/Criteo-Salaries-E426672.htm
+    # Overwrites
+    salary: $7000-$8000(Est)
+    bonus: Yes(Quarterly)
+    stock_options: Yes, actual shares as company is listed
+  pantry: Very Good
+  annual_leaves: 25
+  flexible_hours: Yes
+  benefits:
+    good_insurance: Yes
+    pregnancy: Yes
+    maternity_leaves: 4
+    covers_dependents: Yes
+    extras: Free breakfast, free fruits.
+  notes: People-centric
+  strike_out: No
+
 DRW:
   career_page: https://drw.com/careers/
   office_location: Downtown/Marina Bay
@@ -100,6 +157,34 @@ DRW:
     covers_dependents: Yes
     extras: Daily Catered Breakfasts, includes retirement plan
   notes: ''
+  strike_out: No
+
+Go-Jek:
+  career_page: https://career.go-jek.com/job/
+  office_location: Downtown Core Area
+  office_picture: pictures/gojek.jpg
+  glassdoor:
+    link: https://www.glassdoor.sg/Reviews/Gojek-Reviews-E1282114.htm
+    # Overwrites
+    rating: 4.0
+    company_size: 1001 to 5000 employees
+    company_revenue: Unknown / Non-Applicable
+  software_engineer:
+    link: https://www.glassdoor.sg/Monthly-Pay/Gojek-Software-Engineer-Monthly-Pay-E1282114_D_KO6,23.htm
+    # Overwrites
+    salary: $7000
+    bonus: No
+    stock_options: Yes
+  pantry: Good
+  annual_leaves: 18-22
+  flexible_hours: Yes, or can just work from home
+  benefits:
+    good_insurance: Yes
+    pregnancy: No
+    maternity_leaves: 4
+    covers_dependents: No
+    extras: Negotiable benefits
+  notes: Get additional credits into GoPay wallet for personal use
   strike_out: No
 
 Facebook:
@@ -137,8 +222,6 @@ Facebook:
 ### List of companies
 #| Name | Location | Glassdoor Rating | Office Picture AAAAAAAAAAAAAAAAAAAAAAA | Mid Level Engineer Salary | Bonus | Stock Options | Pantry | Annual Leaves | Size | Revenue | Insurance for dependents, Covers pregnancy? | Notes |
 #|---|---|---|---|---|---|---|---|---|---|---|---|---|
-#| [DRW](https://drw.com/careers/) | Downtown/Marina Bay | 4.2 | <img src="pictures/drw.jpg" alt="Drw Office" height="250" width="400" > | $8000->$10k++) | Yes!$$ | No | Good | 18-25(Depending on length of service) | 1001 to 5000 | Unknown | Yes, Yes | Daily Catered Breakfasts, includes retirement plan |
-#
 #
 #| [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | No intern positions listed |
 #| [Google](https://careers.google.com/jobs/results/142027906936120006-software-engineering-intern-summer-2020/?company=Google&company=YouTube&hl=en&jlo=en-US&location=Singapore&q=Software%20Engineering%20intern)  | Pasir Panjang | Summer | Deadline: 31st October 2019 | Within 12-18 months of completing a Bachelor's or Master's degree
