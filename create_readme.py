@@ -22,7 +22,8 @@ CONFIG_PATH = 'config.yaml'
 intro = f'''
 # Good-tier Tech companies in Singapore
 ### Updated: {today}
-This project uses a config.yaml and a python script to automatically regenerate this README file.
+This project uses a [config.yaml](config.yaml) and a python [script](generate.py) to \
+automatically [regenerate](create_readme.py) this [README](README.md) file.
 
 ### To contribute:
 1. Fork repository

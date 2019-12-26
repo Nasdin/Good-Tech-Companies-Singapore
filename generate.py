@@ -1,4 +1,5 @@
 from collections import OrderedDict, namedtuple
+from typing import Any
 
 create_metadata = namedtuple('metadata', ('career_page', 'strike_out', 'glassdoor__link', 'software_engineer__link'))
 
@@ -64,15 +65,23 @@ def row_data_to_row_markdown(row_data: dict, metadata: create_metadata):
 
 # % Utilities
 
-def _get_data(key: str, nested_data: dict) -> object:
+def _get_data(key: str, nested_data: dict) -> Any:
     sub_key_i = key.rfind('__')
     if sub_key_i != -1:
-        return _get_data(key[(sub_key_i + 2):], nested_data[key[:sub_key_i]])
-    return nested_data.get(key, None)
+        return _get_data(key[(sub_key_i + 2):], _get_data(key[:sub_key_i], nested_data))
+    if key and nested_data:
+        return nested_data.get(key, None)
+    else:
+        return None
 
 
-def _get_metadata(data: dict):
-    return create_metadata(**{metadata: _get_data(metadata, data) for metadata in create_metadata._fields})
+def _get_metadata(data: dict, metadata_fields=create_metadata._fields):
+    return create_metadata(**{metadata: _get_data(metadata, data) for metadata in metadata_fields})
+
+
+def _create_markdown_bullet_list(items: list):
+    bullet_items = ' '.join(f'<li> {item} </li>' for item in items)
+    return f'<ul> {bullet_items} </ul>'
 
 
 def _translate_benefits(benefits: dict) -> list:
@@ -103,8 +112,3 @@ def _translate_benefits(benefits: dict) -> list:
         benefit.append(benefits.get('extras'))
 
     return benefit
-
-
-def _create_markdown_bullet_list(items: list):
-    bullet_items = ' '.join(f'<li> {item} </li>' for item in items)
-    return f'<ul> {bullet_items} </ul>'
