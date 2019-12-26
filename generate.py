@@ -92,5 +92,5 @@ def row_data_to_row_markdown(row_data: dict, metadata: dict):
 
 
 def create_markdown_bullet_list(items: list):
-    bullet_items = ' '.join(f'< li > {item} < / li >' for item in items)
-    return f'< ul > {bullet_items} < / ul >'
+    bullet_items = ' '.join(f'<li> {item} </li>' for item in items)
+    return f'<ul> {bullet_items} </ul>'

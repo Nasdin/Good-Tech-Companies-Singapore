@@ -3,7 +3,7 @@ COLUMNS:
   key: Name
   office_location: Location
   glassdoor__rating: Glassdoor rating
-  office_picture: Office Picture
+  office_picture: Office Picture XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   software_engineer__salary: Mid-Level Engineer Salary
   software_engineer__bonus: Bonus
   software_engineer__stock_options: Stock Options
