@@ -47,6 +47,34 @@ COLUMNS:
 #  notes: ''
 #  strike_out: No
 
+Adobe:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
 Agoda:
   career_page: https://careersatagoda.com
   office_location: Tanjong Pagar
@@ -74,6 +102,34 @@ Agoda:
     extras: But dependents costs $109/month to be covered
   notes: ''
   strike_out: no
+
+AIA:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
 AirBnb:
  career_page:
@@ -187,6 +243,90 @@ AutoDesk:
  notes: ''
  strike_out: No
 
+AXA:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+Booking.com:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+ ByteDance(TikTok):
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
 
 Carousell:
   career_page: https://careers.carousell.com/
@@ -244,6 +384,34 @@ Canopy:
   notes: Startup, pays low for mid level. Good pantry. Remote job available. Long hours
   strike_out: yes
 
+Cloudera:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
 Criteo:
   career_page: https://www.criteo.com/careers/
   office_location: Raffles Place, (CapitaGreen)
@@ -271,6 +439,34 @@ Criteo:
     extras: Free breakfast, free fruits.
   notes: People-centric
   strike_out: No
+
+Citi:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
 DBS:
  career_page:
@@ -356,6 +552,34 @@ DRW:
   notes: ''
   strike_out: No
 
+Expedia:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
 Facebook:
   career_page: https://www.facebook.com/careers
   office_location: Marina One
@@ -385,6 +609,34 @@ Facebook:
   strike_out: no
 
 FoodPanda:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+Gitlab:
  career_page:
  office_location:
  office_picture:
@@ -554,6 +806,64 @@ HP:
   strike_out: Yes
 
 HSBC Innovation Labs:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+ 
+
+ HubSpot:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+Intuit:
  career_page:
  office_location:
  office_picture:
@@ -781,6 +1091,34 @@ Microsoft:
  notes: ''
  strike_out: No
 
+ Netflix:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
 nuTonomy:
  career_page:
  office_location:
@@ -837,8 +1175,64 @@ OCBC:
  notes: ''
  strike_out: No
 
+ Oracle:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
 
 PayPal:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+Rackspace:
  career_page:
  office_location:
  office_picture:
@@ -922,6 +1316,62 @@ Refinitiv:
  notes: ''
  strike_out: No
 
+SalesForce:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+ SAP:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
 SEA Garena:
  career_page:
  office_location:
@@ -949,6 +1399,34 @@ SEA Garena:
    extras:
  notes: ''
  strike_out: No
+
+Shell:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No 
 
 Shopee:
  career_page:
@@ -1062,6 +1540,89 @@ Standard Chartered:
  notes: ''
  strike_out: No
 
+Tableau:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+Thales:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+Thoughtworks:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
 Traveloka:
  career_page:
@@ -1092,6 +1653,34 @@ Traveloka:
  strike_out: No
 
 Twitter:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+ Twitch:
  career_page:
  office_location:
  office_picture:
@@ -1232,6 +1821,34 @@ WorkDay:
  strike_out: No
 
 ZenDesk:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+ Zoom:
  career_page:
  office_location:
  office_picture:
