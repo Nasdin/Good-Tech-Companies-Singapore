@@ -102,10 +102,13 @@ def _translate_benefits(benefits: dict) -> list:
     if benefits.get('covers_dependents'):
         benefit.append("Insurance is extended to dependents")
 
-    if benefits.get('maternity_leaves') > 4:
-        benefit.append(f"Maternity leave is more than standard, {benefits.get('maternity_leaves')} months")
-    else:
-        benefit.append("Maternity leave is standard to gov policy")
+    try:
+        if benefits.get('maternity_leaves') > 4:
+            benefit.append(f"Maternity leave is more than standard, {benefits.get('maternity_leaves')} months")
+        else:
+            benefit.append("Maternity leave is standard to gov policy")
+    except TypeError: 
+        benefit.append("WIP")
 
     if (benefits.get('extras') is not None) and (benefits.get('extras') is not False):
         benefit.append(benefits.get('extras'))

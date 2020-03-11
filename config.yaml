@@ -75,117 +75,117 @@ Agoda:
   notes: ''
   strike_out: no
 
-#AirBnb:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+AirBnb:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#Apple:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Apple:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#Amazon:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Amazon:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#AutoDesk:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+AutoDesk:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
 
 Carousell:
@@ -272,61 +272,61 @@ Criteo:
   notes: People-centric
   strike_out: No
 
-#DBS:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+DBS:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#Dell:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Dell:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
 DRW:
   career_page: https://drw.com/careers/
@@ -384,63 +384,61 @@ Facebook:
   notes: Signing bonus, free meal 3 times a day, paid vacations
   strike_out: no
 
-#FoodPanda:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+FoodPanda:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#Google:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
-
-
+Google:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
 
 Go-Jek:
@@ -471,61 +469,61 @@ Go-Jek:
   notes: Get additional credits into GoPay wallet for personal use
   strike_out: No
 
-#GovTech:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+GovTech:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#Grab:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Grab:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
 HP:
   career_page: https://jobs.hp.com/en-us/?prefilters=none&CloudSearchLocation=Singapore
@@ -555,33 +553,33 @@ HP:
   notes: Low Salary, subsidized food, subsidized gym. Low number of leaves.
   strike_out: Yes
 
-#HSBC Innovation Labs:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+HSBC Innovation Labs:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
 Klook:
   career_page: https://www.klook.com/en-SG/careers/
@@ -611,262 +609,262 @@ Klook:
   notes: Lower than average basic salary but has bonuses. Good insurance, but not high end. Nice pantry and office.
   strike_out: No
 
-#Lazada:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Lazada:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#LinkedIn:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
-
-
+LinkedIn:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
 
 
-#IBM:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
-
-#JP Morgan:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
-
-#Jump Trading:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
-
-#Microsoft:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
-
-#nuTonomy:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
-
-#OCBC:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
 
 
-#PayPal:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+IBM:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+JP Morgan:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+Jump Trading:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+Microsoft:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+nuTonomy:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+OCBC:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+
+PayPal:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
 Remerge:
   career_page: https://remerge.recruitee.com/
@@ -896,368 +894,368 @@ Remerge:
   notes: Can work remotely and has unlimited leaves but still have to complete work so typically 30+
   strike_out: No
 
-#Refinitiv:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Refinitiv:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#SEA Garena:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+SEA Garena:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#Shopee:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Shopee:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#ShopBack:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+ShopBack:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#Stripe:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Stripe:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#Standard Chartered:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Standard Chartered:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
 
-#Traveloka:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Traveloka:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#Twitter:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Twitter:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#Viki:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+Viki:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#VISA:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
-#
-#ViSenze:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+VISA:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#WorkDay:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+ViSenze:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
-#ZenDesk:
-#  career_page:
-#  office_location:
-#  office_picture:
-#  glassdoor:
-#    link:
-#    # Overwrites
-#    rating:
-#    company_size:
-#    company_revenue:
-#  software_engineer:
-#    link:
-#    # Overwrites
-#    salary:
-#    bonus:
-#    stock_options:
-#  pantry:
-#  annual_leaves:
-#  flexible_hours:
-#  benefits:
-#    good_insurance:
-#    pregnancy:
-#    maternity_leaves:
-#    covers_dependents:
-#    extras:
-#  notes: ''
-#  strike_out: No
+WorkDay:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
+
+ZenDesk:
+ career_page:
+ office_location:
+ office_picture:
+ glassdoor:
+   link:
+   # Overwrites
+   rating:
+   company_size:
+   company_revenue:
+ software_engineer:
+   link:
+   # Overwrites
+   salary:
+   bonus:
+   stock_options:
+ pantry:
+ annual_leaves:
+ flexible_hours:
+ benefits:
+   good_insurance:
+   pregnancy:
+   maternity_leaves:
+   covers_dependents:
+   extras:
+ notes: ''
+ strike_out: No
 
