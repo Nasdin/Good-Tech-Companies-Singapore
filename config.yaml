@@ -665,33 +665,32 @@ Gitlab:
  strike_out: No
 
 Google:
- career_page:
- office_location:
- office_picture:
- glassdoor:
-   link:
-   # Overwrites
-   rating:
-   company_size:
-   company_revenue:
- software_engineer:
-   link:
-   # Overwrites
-   salary:
-   bonus:
-   stock_options:
- pantry:
- annual_leaves:
- flexible_hours:
- benefits:
-   good_insurance:
-   pregnancy:
-   maternity_leaves:
-   covers_dependents:
-   extras:
- notes: ''
- strike_out: No
-
+  career_page: https://careers.google.com/
+  office_location: Mapletree Business City
+  office_picture: pictures/google.png
+  glassdoor:
+    link: https://www.glassdoor.com/Reviews/Google-Reviews-E9079.htm
+    # Overwrites
+    rating: 4.5
+    company_size: 10000+ employees
+    company_revenue: $10B+
+  software_engineer:
+    link: https://www.glassdoor.com/Salary/Google-Software-Engineer-Singapore-Salaries-EJI_IE9079.0,6_KO7,24_IL.25,34_IN217.htm
+    # Overwrites
+    salary: $8625-10000
+    bonus: Yes$
+    stock_options: Yes$$
+  pantry: Amazing
+  annual_leaves: 20+
+  flexible_hours: Yes, and can work from home
+  benefits:
+    good_insurance: Yes
+    pregnancy: Yes
+    maternity_leaves: Yes
+    covers_dependents: Yes
+    extras: Free meals, Health Screening, Hospitalisation Leave, Team Building, Training and Education, Gym, WFH fund, you name it
+  notes: Paid vacation, PTO, 20% time
+  strike_out: No
 
 Go-Jek:
   career_page: https://career.go-jek.com/job/
