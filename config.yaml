@@ -469,31 +469,31 @@ Citi:
  strike_out: No
 
 DBS:
- career_page:
- office_location:
- office_picture:
+ career_page: https://www.dbs.com/careers/default.page
+ office_location: Marina Bay
+ office_picture: pictures/dbs.jpg
  glassdoor:
-   link:
+   link: https://www.glassdoor.sg/Reviews/DBS-Bank-Reviews-E611812_P3.htm
    # Overwrites
-   rating:
-   company_size:
-   company_revenue:
+   rating: 3.6
+   company_size: 20k+
+   company_revenue: 10bn+
  software_engineer:
-   link:
+   link: https://www.glassdoor.sg/Reviews/DBS-Bank-Software-Engineer-Reviews-EI_IE611812.0,8_KO9,26.htm?
    # Overwrites
-   salary:
-   bonus:
-   stock_options:
- pantry:
- annual_leaves:
- flexible_hours:
+   salary: $5000-6000
+   bonus: Yes, depends on team
+   stock_options: Yes, after one year of employment
+ pantry: Amazing
+ annual_leaves: 24+2
+ flexible_hours: No
  benefits:
-   good_insurance:
+   good_insurance: Yes
    pregnancy:
    maternity_leaves:
    covers_dependents:
-   extras:
- notes: ''
+   extras: Capital reducing loans, 1% less than market rate
+ notes: Embraced agile and startup structure, teams are lean within DBS
  strike_out: No
 
 Dell:
